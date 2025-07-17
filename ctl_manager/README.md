@@ -68,6 +68,3 @@ In the notebook you'll find ready test examples. Before running:
 - Python 3.x
 - `os` module (built-in)
 - Jupyter Notebook or VS Code with Python extension
-
-## Author
-Script for managing database releases via Harness.
